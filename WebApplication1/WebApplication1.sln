@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1.csproj", "{E6B0D216-4755-441F-BEB1-FC9FB1CC5934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonaForm", "..\PersonaForm\PersonaForm.csproj", "{15D3FECE-BD86-45A2-A4B0-C33F98DD54A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B0D216-4755-441F-BEB1-FC9FB1CC5934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B0D216-4755-441F-BEB1-FC9FB1CC5934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B0D216-4755-441F-BEB1-FC9FB1CC5934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B0D216-4755-441F-BEB1-FC9FB1CC5934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D3FECE-BD86-45A2-A4B0-C33F98DD54A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D3FECE-BD86-45A2-A4B0-C33F98DD54A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D3FECE-BD86-45A2-A4B0-C33F98DD54A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D3FECE-BD86-45A2-A4B0-C33F98DD54A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD7D42C1-4A69-487F-A1EA-52413E19FF24}
+	EndGlobalSection
+EndGlobal
